@@ -1,2 +1,3 @@
-# Data-Analysis-dashboard-
-This Power BI project provides an interactive dashboard analyzing Blinkit's sales performance. It visualizes key metrics such as total sales, top-selling items, profit margins, and regional performance. The report helps identify sales trends and business insights to support data-driven decision-making.
+#Blinkit Analysis(Interactive dashboard creation using powerbi)
+## Project Objective
+To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
