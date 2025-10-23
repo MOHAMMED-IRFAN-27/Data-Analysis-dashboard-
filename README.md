@@ -27,3 +27,6 @@ Average Rating: The average customer rating for items sold.
 6. Percentage of Sales by Outlet Size
 7. Sales by Outlet Location:
 8. All Metrics by Outlet Type
+
+## Dashboard image
+<img width="1723" height="994" alt="Screenshot 2025-10-23 140829" src="https://github.com/user-attachments/assets/1866d063-3c1d-4883-96f6-bf02a9910d58" />
