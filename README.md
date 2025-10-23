@@ -30,3 +30,6 @@ Average Rating: The average customer rating for items sold.
 
 ## Dashboard image
 <img width="1723" height="994" alt="Screenshot 2025-10-23 140829" src="https://github.com/user-attachments/assets/1866d063-3c1d-4883-96f6-bf02a9910d58" />
+
+## Conclusion
+This sales analysis demonstrates that Blinkit is performing well in terms of sales volume and customer engagement. However, there is still room for improvement in optimizing product mix, pricing strategies, and regional marketing efforts. By continuously tracking these KPIs in Power BI, the company can make data-driven decisions to enhance revenue, streamline operations, and strengthen its market position.
